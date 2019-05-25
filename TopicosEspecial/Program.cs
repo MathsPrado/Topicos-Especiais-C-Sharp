@@ -258,30 +258,78 @@ namespace TopicosEspecial
 
             //-----Formatação(DateTime-> string) -------------------------
 
-            DateTime d = new DateTime(2001, 8, 15, 13, 45, 58);
+            //DateTime d = new DateTime(2001, 8, 15, 13, 45, 58);
 
-            string s1 = d.ToLongDateString();
+            //string s1 = d.ToLongDateString();
 
-            string s2 = d.ToLongTimeString();
+            //string s2 = d.ToLongTimeString();
 
-            string s3 = d.ToShortDateString();
+            //string s3 = d.ToShortDateString();
 
-            string s4 = d.ToShortTimeString();
+            //string s4 = d.ToShortTimeString();
 
-            string s5 = d.ToString();
+            //string s5 = d.ToString();
 
-            string s6 = d.ToString("yyyy-MM-dd HH:mm:ss");
+            //string s6 = d.ToString("yyyy-MM-dd HH:mm:ss");
 
-            string s7 = d.ToString("yyyy-MM-dd HH:mm:ss.fff");
+            //string s7 = d.ToString("yyyy-MM-dd HH:mm:ss.fff");
 
-            Console.WriteLine("ToLongDateString:"+s1);
-            Console.WriteLine("ToLongDateString:" + s2);
-            Console.WriteLine("ToLongDateString:" + s3);
-            Console.WriteLine("ToShortDateString:" + s4);
-            Console.WriteLine("ToString:"+s5);
-            Console.WriteLine("ToString(yyyy - MM - dd HH: mm:ss):" + s6);
-            Console.WriteLine("ToString(yyyy - MM - dd HH: mm:ss.fff):" + s7);
+            //Console.WriteLine("ToLongDateString:"+s1);
+            //Console.WriteLine("ToLongDateString:" + s2);
+            //Console.WriteLine("ToLongDateString:" + s3);
+            //Console.WriteLine("ToShortDateString:" + s4);
+            //Console.WriteLine("ToString:"+s5);
+            //Console.WriteLine("ToString(yyyy - MM - dd HH: mm:ss):" + s6);
+            //Console.WriteLine("ToString(yyyy - MM - dd HH: mm:ss.fff):" + s7);
 
+
+            //Opreações timeSpan -----------
+
+            //TimeSpan t1 = new TimeSpan(1, 30, 10);
+            //TimeSpan t2 = new TimeSpan(0, 10, 5);
+            //TimeSpan sum = t1.Add(t2);
+            //TimeSpan dif = t1.Subtract(t2);
+            //TimeSpan mult = t2.Multiply(2.0);
+            //TimeSpan div = t2.Divide(2.0);
+
+            //Console.WriteLine(t1);
+            //Console.WriteLine(t2);
+            //Console.WriteLine("add: "+sum);
+            //Console.WriteLine("Subtract: " + dif);
+            //Console.WriteLine("Multiply" + mult);
+            //Console.WriteLine("Divide: " + div);
+
+            //DateTimeKind------------------------
+
+            DateTime d1 = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Local);
+            DateTime d2 = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Utc);
+            DateTime d3 = new DateTime(2000, 8, 15, 13, 5, 58);
+
+
+            Console.WriteLine("d1: " + d1);
+
+            Console.WriteLine("d1 Kind: " + d1.Kind);
+
+            Console.WriteLine("d1 to Local: " + d1.ToLocalTime());
+
+            Console.WriteLine("d1 to Utc: " + d1.ToUniversalTime());
+
+            Console.WriteLine(); Console.WriteLine("d2: " + d2);
+
+            Console.WriteLine("d2 Kind: " + d2.Kind);
+
+            Console.WriteLine("d2 to Local: " + d2.ToLocalTime());
+
+            Console.WriteLine("d2 to Utc: " + d2.ToUniversalTime());
+
+            Console.WriteLine(); Console.WriteLine("d3: " + d3);
+
+            Console.WriteLine("d3 Kind: " + d3.Kind);
+
+            Console.WriteLine("d3 to Local: " + d3.ToLocalTime());
+
+            Console.WriteLine("d3 to Utc: " + d3.ToUniversalTime());
         }
     }
 }
+

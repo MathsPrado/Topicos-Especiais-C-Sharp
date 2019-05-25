@@ -9,3 +9,14 @@ C:\Users\Matheus\source\repos\TopicosEspecial\TopicosEspecial\obj\Debug\netcorea
 C:\Users\Matheus\source\repos\TopicosEspecial\TopicosEspecial\obj\Debug\netcoreapp2.1\TopicosEspecial.AssemblyInfo.cs
 C:\Users\Matheus\source\repos\TopicosEspecial\TopicosEspecial\obj\Debug\netcoreapp2.1\TopicosEspecial.dll
 C:\Users\Matheus\source\repos\TopicosEspecial\TopicosEspecial\obj\Debug\netcoreapp2.1\TopicosEspecial.pdb
+C:\Users\Matheus\Documents\Fatec\Topicos-Especiais-C-Sharp\TopicosEspecial\bin\Debug\netcoreapp2.1\TopicosEspecial.deps.json
+C:\Users\Matheus\Documents\Fatec\Topicos-Especiais-C-Sharp\TopicosEspecial\bin\Debug\netcoreapp2.1\TopicosEspecial.runtimeconfig.json
+C:\Users\Matheus\Documents\Fatec\Topicos-Especiais-C-Sharp\TopicosEspecial\bin\Debug\netcoreapp2.1\TopicosEspecial.runtimeconfig.dev.json
+C:\Users\Matheus\Documents\Fatec\Topicos-Especiais-C-Sharp\TopicosEspecial\bin\Debug\netcoreapp2.1\TopicosEspecial.dll
+C:\Users\Matheus\Documents\Fatec\Topicos-Especiais-C-Sharp\TopicosEspecial\bin\Debug\netcoreapp2.1\TopicosEspecial.pdb
+C:\Users\Matheus\Documents\Fatec\Topicos-Especiais-C-Sharp\TopicosEspecial\obj\Debug\netcoreapp2.1\TopicosEspecial.csprojAssemblyReference.cache
+C:\Users\Matheus\Documents\Fatec\Topicos-Especiais-C-Sharp\TopicosEspecial\obj\Debug\netcoreapp2.1\TopicosEspecial.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Fatec\Topicos-Especiais-C-Sharp\TopicosEspecial\obj\Debug\netcoreapp2.1\TopicosEspecial.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Fatec\Topicos-Especiais-C-Sharp\TopicosEspecial\obj\Debug\netcoreapp2.1\TopicosEspecial.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Fatec\Topicos-Especiais-C-Sharp\TopicosEspecial\obj\Debug\netcoreapp2.1\TopicosEspecial.dll
+C:\Users\Matheus\Documents\Fatec\Topicos-Especiais-C-Sharp\TopicosEspecial\obj\Debug\netcoreapp2.1\TopicosEspecial.pdb

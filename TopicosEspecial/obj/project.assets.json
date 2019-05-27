@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Fatec\\Topicos-Especiais-C-Sharp\\TopicosEspecial\\TopicosEspecial.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\Topicos-Especiais-C-Sharp\\TopicosEspecial\\TopicosEspecial.csproj",
       "projectName": "TopicosEspecial",
-      "projectPath": "C:\\Users\\Matheus\\Documents\\Fatec\\Topicos-Especiais-C-Sharp\\TopicosEspecial\\TopicosEspecial.csproj",
+      "projectPath": "C:\\Users\\Matheus\\Desktop\\Topicos-Especiais-C-Sharp\\TopicosEspecial\\TopicosEspecial.csproj",
       "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus\\Documents\\Fatec\\Topicos-Especiais-C-Sharp\\TopicosEspecial\\obj\\",
+      "outputPath": "C:\\Users\\Matheus\\Desktop\\Topicos-Especiais-C-Sharp\\TopicosEspecial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
